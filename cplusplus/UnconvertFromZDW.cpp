@@ -20,6 +20,7 @@
 #include <math.h>
 #include <ostream>
 #include <set>
+#include <cassert>
 #include <sstream>
 #include <stdint.h>
 #include <string.h>
